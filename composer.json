@@ -1,6 +1,6 @@
 {
 
-    "name": "oat-sa/phpunit-bridge",
+    "name": "siwane/phpunit-bridge",
     "description" : "Gateway to ease package-tao testing",
     "authors" : [
         {
