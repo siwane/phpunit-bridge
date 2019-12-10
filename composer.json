@@ -1,0 +1,26 @@
+{
+
+    "name": "oat-sa/phpunit-bridge",
+    "description" : "Gateway to ease package-tao testing",
+    "authors" : [
+        {
+          "name": "Open Assessment Technologies SA"
+        }
+    ],
+    "keywords" : [
+        "tao",
+        "computer-based-assessment"
+    ],
+    "homepage" : "http://www.taotesting.com",
+    "license" : [
+        "GPL-2.0-only"
+    ],
+    "minimum-stability" : "dev",
+    "require": {
+    },
+    "autoload" : {
+        "psr-4" : {
+            "oat\\phpunit-bridge\\" : ""
+        }
+    } 
+}
